@@ -1,5 +1,19 @@
 TASK1 - API INTEGRATION AND DATA VISUALIZATION
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: DHARSHANA DEVI S
+
+*INTERN ID*: CTIS6407
+
+*DOMAIN*: PYTHON PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH KUMAR
+
+#DESCRIPTION OF THE TASK 1
+
 Project Title
 
     Weather Forecast Dashboard using Python & API
@@ -52,5 +66,6 @@ How to Run the Project:
     2.Add your API key in app.py
 
     3.Run the app:
+
 
         streamlit run app.py

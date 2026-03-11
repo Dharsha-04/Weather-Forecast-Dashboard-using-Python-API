@@ -26,7 +26,7 @@ API Used:
 
     Data is fetched from the OpenWeatherMap API to retrieve real-time and 5-day weather forecast data.
 
-Technologies Used
+Technologies Used:
 
         Python
 
@@ -69,3 +69,4 @@ How to Run the Project:
 
 
         streamlit run app.py
+

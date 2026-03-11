@@ -70,3 +70,12 @@ How to Run the Project:
 
         streamlit run app.py
 
+OUTPUT:
+
+<img width="1908" height="877" alt="Image" src="https://github.com/user-attachments/assets/ba4d8888-4cc2-4f87-aec5-935293adc206" />
+
+<img width="1897" height="875" alt="Image" src="https://github.com/user-attachments/assets/4b25f7a6-904c-4809-9677-8b11913b0492" />
+
+<img width="1887" height="873" alt="Image" src="https://github.com/user-attachments/assets/35d12c8d-d8b6-40b2-aedd-361921cd916a" />
+
+<img width="1907" height="876" alt="Image" src="https://github.com/user-attachments/assets/f1995c6d-d527-4c38-af73-4776e6875bba" />
